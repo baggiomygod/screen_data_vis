@@ -1,0 +1,12 @@
+.map-wrap{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    .top{
+        flex: 2;
+    }
+    .bottom{
+        flex: 7;
+        background-color: #071761;
+    }
+}

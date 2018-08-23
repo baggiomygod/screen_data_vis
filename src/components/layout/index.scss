@@ -1,0 +1,8 @@
+.screen-layout-wrap{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    .layout-content{
+        flex: 2 1 auto;
+    }
+}
