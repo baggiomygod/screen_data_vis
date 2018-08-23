@@ -1,26 +1,30 @@
-.header-wrap{
+.header-wrap {
     height: 10vh;
-    background:rgba(23,13,63,1);
-    flex: 0 1 10vh;
+    background: rgba(23, 13, 63, 1);
+    flex: 0 1 12vh;
     display: flex;
     flex-direction: row;
-    .left{
+    height: 135px;
+    background: linear-gradient(0deg, rgba(132, 255, 254, .1), rgba(87, 221, 255, -0.9), rgba(97, 231, 255, 0), rgba(97, 231, 255, 0)), linear-gradient(90deg, rgba(97, 231, 255, 0), rgba(87, 221, 255, .1), rgba(132, 255, 254, .1), rgba(97, 231, 255, 0));
+    border-radius: 0 0 100% 100%;
+    .left {
         flex: 3;
         display: flex;
         justify-content: center;
         align-items: center;
-        color:rgba(82,220,255,1);
+        color: rgba(82, 220, 255, 1);
         font-weight: 100;
     }
-    .center{
+    .center {
         flex: 6;
         display: flex;
-        justify-content:center;
+        justify-content: center;
         align-items: center;
-        h1{
+        position: relative; // overflow: hidden;
+        h1 {
             margin: 0px;
-            color: rgba(255,255,253,1);
-            &:before{
+            color: rgba(255, 255, 253, 1);
+            &:before {
                 display: inline-block;
                 content: "";
                 vertical-align: middle;
@@ -30,29 +34,38 @@
                 margin-right: 16px;
             }
         }
+        .title-shadow {
+            width: 120%;
+            height: 135px;
+            position: absolute;
+            background: linear-gradient(0deg, rgba(87, 221, 255, .3), transparent, transparent, transparent, transparent), 
+            linear-gradient(90deg, transparent, transparent,transparent, rgba(87, 221, 255, .1), rgba(132, 255, 254, .1), transparent,transparent,transparent);
+            border-radius: 0 0 100% 100%;
+            top: -71px;
+        }
     }
-    .right{
+    .right {
         flex: 3;
-        color:rgba(82,220,255,1);
+        color: rgba(82, 220, 255, 1);
         display: flex;
         justify-content: flex-end;
         align-items: center;
         font-weight: 100;
-        .current-time{
+        .current-time {
             display: flex;
-            .time{
+            .time {
                 font-size: 20px;
                 padding: 0 20px;
-                border-right: 1px solid rgba(82,220,255,1);
+                border-right: 1px solid rgba(82, 220, 255, 1);
             }
-            .date-wrap{
+            .date-wrap {
                 padding: 0 20px 0 10px;
-                .date,.day{
+                .date,
+                .day {
                     font-size: 12px;
                     text-align: left;
                 }
             }
-            
         }
     }
 }

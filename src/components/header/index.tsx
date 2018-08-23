@@ -47,7 +47,8 @@ class Header extends React.Component<{}, {}> {
                     <span>{this.state.updateTime}</span>
                 </div>
                 <div className="center">
-                    <h1>杭州公安数据可视化指挥平台</h1>
+                        <h1>杭州公安数据可视化指挥平台</h1>
+                        <div className="title-shadow" />
                 </div>
                 <div className="right">
                     <div className="current-time">
