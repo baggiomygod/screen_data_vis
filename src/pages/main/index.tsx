@@ -1,6 +1,6 @@
 import * as React from 'react'
-import LeftCard from './components/LeftCard'
-import RightCard from './components/RightCard'
+import LeftCard from './components/leftCard'
+import RightCard from './components/rightCard'
 import CenterMap from './components/centerMap'
 import './index.scss'
 class MainScreen extends React.Component{

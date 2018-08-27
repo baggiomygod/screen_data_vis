@@ -1,0 +1,14 @@
+.tb-layout-wrap{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    .card-item{
+    }
+    .card-top{
+        flex: 2;
+        margin-bottom: 10px;
+    }
+    .card-bottom{
+        flex:1.2;
+    }
+}

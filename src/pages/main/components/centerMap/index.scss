@@ -1,0 +1,87 @@
+.map-wrap{
+    .alarm-total-wrap{
+        height: 100%;
+        padding: 10px;
+        display: flex;
+        .total{
+            flex: 1 1 auto;
+            .title{
+                height: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: #fff;
+                font-size: 20px;
+                background:linear-gradient(90deg,rgba(255,255,255,0),rgba(31, 150, 254, 1),rgba(255,255,255,0));
+                border-radius:10px;
+
+            }
+            .count{
+                height: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .num{
+                    font-size: 28px;
+                    color: rgba(255, 200, 56, 1);
+                    font-weight: 700;
+                    sub{
+                        font-size: 12px;
+                        margin-left: 10px;
+                        font-weight: 200;
+                    }
+                }
+               
+            }
+        }
+        .overview{
+            flex: 3 1 auto;
+            margin-left: 5px;
+            .overview-item{
+                
+                .header, .content{
+                    display: flex;
+                    justify-content: space-between;
+                }
+                .header{
+                    border-top: 1px solid rgba(0,162,255,1);
+                    border-bottom: 1px solid rgba(0,99,196,1);
+                    color: RGBA(82, 220, 255, 1);
+                    font-size: 15px;
+                    padding-top: 3px;
+                    padding-bottom: 3px;
+                }
+                .content{
+                    color: rgba(255, 200, 56, 1);
+                    font-size: 20px;
+                    font-weight: 700;
+                }
+                ul{
+                    margin: 0 0 10px 0;
+                }
+                li{
+                    list-style: none;
+                    text-align: center;
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+
+    .maps-wrap{
+        position: relative;
+        height: 100%;
+    }
+    .tabs-map{
+        position: absolute;
+        width: 100%;
+        top: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: flex-end;
+        .ant-btn{
+            margin-left: 10px;
+        }
+    }
+}

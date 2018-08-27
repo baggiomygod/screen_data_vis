@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "@types/axios": "^0.14.0",
+    "@types/echarts": "^4.1.1",
     "@types/react-router-dom": "^4.3.0",
     "antd": "^3.8.2",
     "axios": "^0.18.0",
+    "echarts": "^4.1.0",
+    "echarts-gl": "^1.1.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router-dom": "^4.3.1",
