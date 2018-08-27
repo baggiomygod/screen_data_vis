@@ -13,6 +13,7 @@
         justify-content: center;
         align-items: center;
         color: rgba(82, 220, 255, 1);
+        font-size: 20px;
         font-weight: 100;
     }
     .center {
@@ -21,6 +22,11 @@
         justify-content: center;
         align-items: center;
         position: relative; // overflow: hidden;
+
+        background: linear-gradient(0deg, rgba(87, 221, 255, .3), transparent, transparent, transparent, transparent), 
+        linear-gradient(90deg, transparent, transparent,transparent, rgba(87, 221, 255, .1), rgba(132, 255, 254, .1), transparent,transparent,transparent);
+        border-radius: 0 0 100% 100%;
+        margin-bottom: 5px;
         h1 {
             margin: 0px;
             color: rgba(255, 255, 253, 1);
@@ -34,15 +40,7 @@
                 margin-right: 16px;
             }
         }
-        .title-shadow {
-            width: 120%;
-            height: 135px;
-            position: absolute;
-            background: linear-gradient(0deg, rgba(87, 221, 255, .3), transparent, transparent, transparent, transparent), 
-            linear-gradient(90deg, transparent, transparent,transparent, rgba(87, 221, 255, .1), rgba(132, 255, 254, .1), transparent,transparent,transparent);
-            border-radius: 0 0 100% 100%;
-            top: -71px;
-        }
+       
     }
     .right {
         flex: 3;
