@@ -3,16 +3,16 @@ import TBLayout from 'src/components/TBLayout'
  class LeftCard extends React.Component<{}, {}> {
     
     public render() {
-        const cardLeftRender = ():any => (
+        const cardTopRender = ():any => (
             <div>left..</div>
         )
-        const cardRightRender = ():any => (
+        const cardBottomRender = ():any => (
             <div>right..</div>
         )
         return (
             <TBLayout>
-                {cardLeftRender()}
-                {cardRightRender()}
+                {cardTopRender()}
+                {cardBottomRender()}
             </TBLayout>
         )
     }
