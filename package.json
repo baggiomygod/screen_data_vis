@@ -2,6 +2,7 @@
   "name": "screen110",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/echarts": "^4.1.1",

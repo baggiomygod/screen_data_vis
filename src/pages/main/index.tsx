@@ -14,6 +14,7 @@ class MainScreen extends React.Component{
                     <CenterMap />
                 </div>
                 <div className="right">
+                    {/* <LeftCard /> */}
                     <RightCard />
                 </div>
             </div>

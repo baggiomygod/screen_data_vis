@@ -20,7 +20,7 @@ function createOptions(data: any[] = defaultData) {
             'rgba(134, 72, 0, 1)'
         ]
     const options = {
-        backgroundColor: '#fff',
+        backgroundColor: 'rgba(255,255,255,0)',
         color: colors,
         title: {
             text: 'normal Pie',
@@ -36,6 +36,9 @@ function createOptions(data: any[] = defaultData) {
             right: 10,
             top: '30%',
             bottom: 20,
+            textStyle:{
+                color: '#fff'
+            },
             data: legendData,
         },
         tooltip : {

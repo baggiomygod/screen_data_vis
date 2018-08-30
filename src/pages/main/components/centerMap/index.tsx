@@ -73,7 +73,7 @@ class CenterMap extends React.Component{
             <MapLayout>
                 <div className="alarm-total-wrap">
                     <div className="total">
-                        <div className="title">杭州市警情总数</div>
+                        <div className="title">总数</div>
                         <div className="count">
                             <span className="num">1102<sub>起</sub></span>
                             {/* <span>起</span> */}
@@ -83,9 +83,9 @@ class CenterMap extends React.Component{
                     <div className="overview">
                         <div className="overview-item overview-top">
                             <ul className="header">
-                                <li>案件(起)</li>
-                                <li>交通(起)</li>
-                                <li>消防(起)</li>
+                                <li>数据1</li>
+                                <li>数据2</li>
+                                <li>数据3</li>
                             </ul>
                             <ul className="content">
                                 <li>123</li>
@@ -95,9 +95,9 @@ class CenterMap extends React.Component{
                         </div>
                         <div className="overview-item overview-bottom">
                             <ul className="header">
-                                <li>咨询求助(起)</li>
-                                <li>纠纷(起)</li>
-                                <li>其他(起)</li>
+                                <li>数据4</li>
+                                <li>数据5</li>
+                                <li>数据6</li>
                             </ul>
                             <ul className="content">
                                 <li>123</li>
