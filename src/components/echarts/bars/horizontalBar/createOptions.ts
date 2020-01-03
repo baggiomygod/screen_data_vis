@@ -1,13 +1,13 @@
 import * as echarts  from 'echarts/lib/echarts';
 // import echartsLinear from 'echarts/lib/util/graphic'
 const testData = [
-    {value: 123, name: '拱墅区分局'},
-    {value: 23, name: '西湖区分局'},
-    {value: 103, name: '滨江区分局'},
-    {value: 133, name: '江干区分局'},
-    {value: 23, name: '上城区分局'},
-    {value: 43, name: '下城区分局'},
-    {value: 63, name: '富阳区分局'},
+    {value: 123, name: '拱墅'},
+    {value: 23, name: '西湖'},
+    {value: 103, name: '滨江'},
+    {value: 133, name: '江干'},
+    {value: 23, name: '上城'},
+    {value: 43, name: '下城'},
+    {value: 63, name: '富阳'},
 ]
 function createOption(data: any[] = testData) {
     const yAxisData:string[] = []
