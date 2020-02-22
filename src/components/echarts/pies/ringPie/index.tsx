@@ -3,12 +3,12 @@ import * as echarts from 'echarts/lib/echarts'
 import createOptions from './ringOptions'
 
 interface IRingProps {
-    width?: number
-    height?: number
+    width?: number | string
+    height?: number | string
     ringData?: any[] | undefined
     onRef: any
 }
-class NoramlPie extends React.Component<IRingProps>{
+class RingPie extends React.Component<IRingProps>{
     public pieChart: any = {}
     constructor(props:IRingProps) {
         super(props)
@@ -22,7 +22,7 @@ class NoramlPie extends React.Component<IRingProps>{
     public initRing () {
         const pieContaierEle:any = document.getElementById('ring-pie')
         this.pieChart = echarts.init(pieContaierEle)
-        this.pieChart.setOption(createOptions(this.props.ringData))
+        this.pieChart.setOption(createOptions(this.props.ringData, ''))
     }
 
     // 重置图标尺寸
@@ -32,7 +32,7 @@ class NoramlPie extends React.Component<IRingProps>{
     public render () {
         const style = {
             width: this.props.width,
-            height: this.props.height
+            height: '100%'
         }
         
         return (
@@ -41,4 +41,4 @@ class NoramlPie extends React.Component<IRingProps>{
     }
 }
 
-export default NoramlPie
+export default RingPie

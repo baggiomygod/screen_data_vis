@@ -1,0 +1,28 @@
+.order-container{
+    .table-wrap{
+        .ant-table-wrapper{
+            th {
+                background-color: transparent !important;
+                color: rgb(156, 170, 191);
+                font-size: 12px;
+            }
+            .ant-table-thead{
+                color: rgb(156, 170, 191);
+            }
+            .ant-table-tbody{
+                color: rgb(156, 170, 191);
+                tr {
+                    td {
+                        padding: 2px;
+                    }
+                }
+            }
+        }
+        
+    }
+    .light{
+        border: 0;
+        background-color: rgba(255,255,255,.2);
+    }
+
+}

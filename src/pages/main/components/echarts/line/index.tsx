@@ -39,7 +39,7 @@ class LinePage extends React.Component{
             <Row gutter={10} className="line-page-wrap">
                 <Col span={24}>
                     <Card title="折线图" className="line-card">
-                        <LineArea onRef={this.onChildRef} width={this.state.width} height={this.state.height} />
+                        <LineArea id={'line-area-contaoner'} onRef={this.onChildRef} width={this.state.width} height={this.state.height} />
                     </Card>
                 </Col>
             </Row>

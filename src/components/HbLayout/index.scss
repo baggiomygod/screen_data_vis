@@ -1,0 +1,16 @@
+.hb-layout-wrap{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    .card-item{
+    }
+    .card-top{
+        flex: 1 2 auto;
+    }
+    .card-middle{
+        flex: 1 2 auto;
+    }
+    .card-bottom{
+        flex: 1 1 auto;
+    }
+}

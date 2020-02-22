@@ -71,45 +71,8 @@ class CenterMap extends React.Component{
         
         return (
             <MapLayout>
-                <div className="alarm-total-wrap">
-                    <div className="total">
-                        <div className="title">总数</div>
-                        <div className="count">
-                            <span className="num">1102<sub>起</sub></span>
-                            {/* <span>起</span> */}
-                            
-                        </div>
-                    </div>
-                    <div className="overview">
-                        <div className="overview-item overview-top">
-                            <ul className="header">
-                                <li>数据1</li>
-                                <li>数据2</li>
-                                <li>数据3</li>
-                            </ul>
-                            <ul className="content">
-                                <li>123</li>
-                                <li>321</li>
-                                <li>112</li>
-                            </ul>
-                        </div>
-                        <div className="overview-item overview-bottom">
-                            <ul className="header">
-                                <li>数据4</li>
-                                <li>数据5</li>
-                                <li>数据6</li>
-                            </ul>
-                            <ul className="content">
-                                <li>123</li>
-                                <li>321</li>
-                                <li>112</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
                 <div className="maps-wrap">
-                    <div id="geo-container" className="stripe" style={{ width: '100%', height: '100%', backgroundColor: 'rgba(23,13,63,1)' }} />
+                    <div id="geo-container" style={{ width: '100%', height: '70vh'}} />
                     <div className="tabs-map" style={{position: 'absolute'}}>
                         <Cascader options={cascaderOptions} size="small" onChange={this.changeMap} placeholder="Please select" />
                         <Button type="primary" size="small">3D地图</Button>

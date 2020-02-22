@@ -1,18 +1,19 @@
 import * as React from 'react'
-import Header from 'src/components/header'
+// import Header from 'src/components/header'
+import HeaderZC from 'src/components/heacerZC'
+  
 import './index.scss'
-class Layout extends React.Component{
-    public render () {
-        return (
-            <div className="screen-layout-wrap">
-                <Header />
+
+const Layout = (props: any) => {
+    return (
+        <div className="screen-layout-wrap">
+                <HeaderZC routerConfig={props.routerConfig} />
                 <div className="layout-content">
-                    {this.props.children}
+                    {props.children}
                 </div>
                 
             </div>
-        )
-    }
+    )
 }
 
 export default Layout

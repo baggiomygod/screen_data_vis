@@ -1,0 +1,20 @@
+.card-head{
+    text-align: left;
+    padding-left: 20px;
+    height: 40px;
+    background-color: #333;
+    line-height: 40px;
+    background-image: linear-gradient(to right, rgba(19, 44, 74, 1), rgba(19, 44, 74, 0.8) rgba(12, 22, 39, 0.6));
+    
+    .arrow{
+        content: "";
+        width: 0px;
+        height: 0px;
+        margin: 5px;
+        vertical-align: text-top;
+        border-top: 6px solid #CCCCCC;
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent; 
+    }
+   
+}

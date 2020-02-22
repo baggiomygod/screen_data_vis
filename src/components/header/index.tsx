@@ -1,20 +1,37 @@
 import * as React from 'react'
 import Utils from 'src/utils/utils'
+import { withRouter, RouteComponentProps } from 'react-router-dom'
 import './index.scss'
+
+
+interface IRouterConfig{
+    headerTitle: any
+}
 interface IProps {
     name?: string
+    routerConfig: IRouterConfig
 }
-class Header extends React.Component<{}, {}> {
-    public state = {
+interface IPathParamsType {
+    type?: string
+    // type whatever you expect in the this.props.match.params.*
+  }
+type HomeProps = IProps & RouteComponentProps<IPathParamsType>
+interface IState {
+    title: string
+    [propName: string]: any
+}
+class Header extends React.Component<HomeProps, IState> {
+    public state:IState = {
         currentTime: {
             date: '',
             day: '',
             time: ''
         },
-        updateTime: ''
+        updateTime: '',
+        title: ''
     }
     public interval:any
-    constructor(props: IProps) {
+    constructor(props: HomeProps) {
         super(props)
         this.setTimes = this.setTimes.bind(this)
     }
@@ -23,6 +40,12 @@ class Header extends React.Component<{}, {}> {
         this.interval = setInterval(() => {
             this.setTimes()
         }, 1000)
+
+        this.setTitle()
+    }
+    public setTitle() {
+        const { match } = this.props
+        console.log(match)
     }
     // public componentDidMount() {
     // }
@@ -65,4 +88,4 @@ class Header extends React.Component<{}, {}> {
     }
 }
 
-export default Header
+export default withRouter(Header)

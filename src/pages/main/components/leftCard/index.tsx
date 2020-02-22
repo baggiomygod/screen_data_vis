@@ -2,10 +2,13 @@ import * as React from 'react';
 import TBLayout from 'src/components/TBLayout'
 import { NormalPie } from 'src/components/echarts/pies'
 import { LineArea } from 'src/components/echarts/lines'
+import datasMock from './mock/datasMock'
+
  class LeftCard extends React.Component<{}, {}> {
      public state = {
          width: 400,
-         height: 300
+         height: 300,
+         lineData: datasMock.gy,
      }
     public childPieRef:any = React.createRef()
     public childLineRef:any = React.createRef()
@@ -43,7 +46,7 @@ import { LineArea } from 'src/components/echarts/lines'
         )
         const cardBottomRender = ():any => (
             <div>
-                <LineArea onRef={this.onLineRef} width={this.state.width} height={this.state.height}/>
+                <LineArea id={'line-area-contaoner'} lineData={this.state.lineData} onRef={this.onLineRef} width={this.state.width} height={this.state.height}/>
             </div>
         )
         return (

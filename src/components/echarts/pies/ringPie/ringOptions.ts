@@ -3,8 +3,8 @@ const ringTestData = [
     {value: 50, name: 'test2'},
     {value: 50, name: 'test3'},
 ]
-function createRingOption(data:any[] = ringTestData) {
-    const legendData = data.map(item => item.name)
+function createRingOption(data:any[] = ringTestData, title = '环形饼图') {
+    // const legendData = data.map(item => item.name)
     const seriesData = data.sort( (a, b)  => a.value - b.value)
     const colors = [
         'rgba(255, 88, 111, 1)',
@@ -14,9 +14,9 @@ function createRingOption(data:any[] = ringTestData) {
         'rgba(134, 72, 0, 1)'
     ]
     const options = {
-        backgroundColor: '#fff',
+        backgroundColor: 'rgba(255,255,255,0)',
         title: {
-            text: 'ring Pie',
+            text: title,
             left: 'center',
             top: 20,
             textStyle: {
@@ -39,16 +39,16 @@ function createRingOption(data:any[] = ringTestData) {
         //         top: 'center'
         //     }]
         // },
-        legend: {
-            orient: 'vertical',
-            icon: 'circle',
-            y: 'center',
-            right: 10,
-            textStyle: {
-                color: '#333'
-            },
-            data: legendData
-        },
+        // legend: {
+        //     orient: 'vertical',
+        //     icon: 'circle',
+        //     y: 'center',
+        //     right: 10,
+        //     textStyle: {
+        //         color: '#333'
+        //     },
+        //     data: legendData
+        // },
         series: [{
             type: 'pie',
             radius: ['40%', '50%'],

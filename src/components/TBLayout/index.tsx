@@ -11,10 +11,10 @@ class TBLayout extends React.Component<ITBLayoutProps, {}> {
         const childrenEl = React.Children.toArray(this.props.children)
         return (
             <div className="tb-layout-wrap">
-                <div className="card-top card-item stripe">
+                <div className="card-top card-item">
                     { childrenEl[0] }
                 </div>
-                <div className="card-bottom card-item stripe">
+                <div className="card-bottom card-item">
                     { childrenEl[1] }
                 </div>
             </div>

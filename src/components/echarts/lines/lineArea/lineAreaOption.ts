@@ -1,5 +1,22 @@
-function createLineAreaOption() {
+function createLineAreaOption(lineData: any[], orient: string = '') {
     const options = {
+            tooltip : {
+                show: true,
+                trigger: 'item'
+            },
+            legend: {
+                show:true,
+                orient: orient || 'vertical',
+                x:'right',
+                y:'top',
+                icon: 'line',
+                itemWidth:20,
+                itemHeight:10,
+                textStyle:{
+                    color:'#1bb4f6'
+                },
+                data:['2019','2020','同比变化']
+            },
             xAxis: {
                 type: 'category',
                 boundaryGap: false,
@@ -14,7 +31,7 @@ function createLineAreaOption() {
                 axisLabel: {
                     color: '#fff',
                 },
-                data: ['00:00', '04:00', '08:00' ,'12:00', '16:00', '20:00', '24:00']
+                data: ['2-3', '2-4', '2-5' ,'2-6', '2-7', '2-8', '2-9']
             },
             yAxis: {
                 type: 'value',
@@ -31,12 +48,7 @@ function createLineAreaOption() {
                     color: '#fff',
                 },
             },
-            series: [{
-                data: [12, 11, 10, 21, 22, 12, 32],
-                type: 'line',
-                smooth: true,
-                areaStyle: {}
-            }]
+            series: lineData
         };
     return options
 }
