@@ -4,16 +4,38 @@
     // background-color: #dedede;
    
     .login-card{
-        width: 360px;
+        background-color: rgb(15, 10, 41);
+        width: 480px;
         position: absolute;
         top: 25%;
         left: 50%;
         transform: translateX(-50%);
-        border-radius: 5%;
-        box-shadow: 3px 4px 6px 0 rgba(146, 146, 165, .8);
+        border-radius: 0;
+        border: 2px solid rgba(200, 220, 201, 1);
+        border-image: linear-gradient(90deg,transparent, rgba(76, 200, 216, 1), transparent) 5 5;
         &:hover{
-            box-shadow: 3px 4px 6px 1px rgba(146, 146, 165, 1)
+        box-shadow: 0px 0px 6px 1px rgba(146, 146, 165, 1)
         }
+        .ant-card-body{
+            border: 2px solid rgba(200, 220, 201, 1);
+            border-image: linear-gradient(transparent, rgba(76, 200, 216, 1), transparent) 5 5;
+        }
+        .ant-input-affix-wrapper{
+            background-color: rgb(15, 10, 41);
+            .ant-input-prefix{
+                .anticon{
+                    color: rgb(137, 157, 201) !important;
+                }
+            }
+            .ant-input{
+                background-color: transparent;
+                color: rgb(137, 157, 201) !important;
+            }
+        }
+    }
+    .login-title{
+        color: #fff;
+        margin: 20px 0;
     }
     .avatar{
         display: block;
@@ -21,6 +43,13 @@
     }
     .login-form{
         width: 300px;
+        margin: 0 auto;
+        .ant-checkbox-wrapper{
+            color: rgb(137, 157, 201);
+        }
+        .no-account{
+            color: rgb(137, 157, 201);
+        }
     }
     .login-form-button{
         width: 100%

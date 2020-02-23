@@ -6,9 +6,9 @@ import {
     Form,
     Icon,
     Checkbox,
-    Avatar
+    // Avatar
 } from 'antd'
-import userIcon from 'src/resource/logo/fui-2x.png'
+// import userIcon from 'src/resource/logo/fui-2x.png'
 import { FormComponentProps } from 'antd/lib/form';
 import CanvasBg from './components/canvasBg'
 // import * as Cookies from 'js-cookie'
@@ -53,7 +53,8 @@ class LoginForm extends React.Component<IUserFormProps, any>{
             <div className="login-wrap">
                 <CanvasBg />
                 <Card bordered={false} className="login-card">
-                <Avatar className="avatar" size={64} src={userIcon} />
+                <h2 className="login-title">中低压停电事件分析诊断系统</h2>
+                {/* <Avatar className="avatar" size={64} src={userIcon} /> */}
                 <Form 
                     onSubmit={this.handleSubmit}
                     className="login-form">
@@ -111,7 +112,7 @@ class LoginForm extends React.Component<IUserFormProps, any>{
                     {/* </Form.Item> */}
                     {/* <Form.Item> */}
                         <Button type="primary" htmlType="submit"  className="login-form-button">登录</Button>
-                        没有账号？ <a href="">注册新用户</a>
+                        <span className="no-account">没有账号？</span> <a href="">注册新用户</a>
                     </Form.Item>
                 </Form>
                 </Card>
