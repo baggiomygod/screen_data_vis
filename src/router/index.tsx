@@ -14,6 +14,7 @@ import Login from 'src/pages/login'
 import MainScreen from 'src/pages/main'
 import Rework from 'src/pages/rework'
 import GeoMap from 'src/pages/geoMap'
+import LinePage from 'src/pages/linePage'
 
 import routerConfig from './routerConfig'
 class ScreenRouter extends React.Component{
@@ -34,6 +35,7 @@ class ScreenRouter extends React.Component{
                 <App>
                     <Switch>
                         <Route path="/geo" component={GeoMap} />
+                        <Route path="/line" component={LinePage} />
                         <Route path="/login" component={Login} />
                         <Route path="/" render={screenRouteRender} />
                     </Switch>

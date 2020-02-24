@@ -2,7 +2,8 @@ function createLineAreaOption(lineData: any[], orient: string = '') {
     const options = {
             tooltip : {
                 show: true,
-                trigger: 'item'
+                trigger: 'item',
+                position: 'top'
             },
             legend: {
                 show:true,
@@ -29,7 +30,7 @@ function createLineAreaOption(lineData: any[], orient: string = '') {
                     }
                 },
                 axisLabel: {
-                    color: '#fff',
+                    color: '#333',
                 },
                 data: ['2-3', '2-4', '2-5' ,'2-6', '2-7', '2-8', '2-9']
             },
@@ -45,7 +46,7 @@ function createLineAreaOption(lineData: any[], orient: string = '') {
                     }
                 },
                 axisLabel: {
-                    color: '#fff',
+                    color: '#333',
                 },
             },
             series: lineData

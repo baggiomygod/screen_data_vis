@@ -66,13 +66,13 @@ class Header extends React.Component<HomeProps, IState> {
         return (
             <header className="header-wrap">
                 <div className="left">
-                    {/* <div className="date-wrap">
+                    <div className="date-wrap">
                             <div className="date">{this.state.currentTime.date}</div>
-                        </div> */}
+                        </div>
                 </div>
                 <div className="center">
-                        {/* <h1>复工指数只能看板</h1> */}
-                        {/* <div className="title-shadow" /> */}
+                        <h1>可视化</h1>
+                        <div className="title-shadow" />
                 </div>
                 <div className="right" />
             </header>

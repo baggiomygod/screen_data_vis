@@ -24,7 +24,9 @@ class GeoTest extends React.Component{
     }
     public render () {
         return (
+            <div>
             <div id="geo-test" style={{width: '100%', height: '100%'}} />
+            </div>
         )
     }
 }
