@@ -4,7 +4,9 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
+    "@amcharts/amcharts4": "^4.9.24",
     "@types/axios": "^0.14.0",
+    "@types/classnames": "^2.2.10",
     "@types/echarts": "^4.1.1",
     "@types/react-router-dom": "^4.3.0",
     "antd": "^3.8.2",

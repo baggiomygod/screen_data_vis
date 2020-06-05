@@ -1,0 +1,15 @@
+.screen-main-wrap{
+    display: flex;
+    height: 87vh;
+    padding: 1vh;
+    .left{
+        flex: 3;
+    }
+    .center{
+        flex: 6;
+        margin: 0 2vh;
+    }
+    .right{
+        flex: 3;
+    }
+}
