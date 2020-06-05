@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<database>数据库：国际数据主要国家(地区)年度数据</database>
+	<data>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">美国</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4078</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">美国</field>
+			<field name="数据">295327</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4277</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">美国</field>
+			<field name="数据">288335</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4198</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">美国</field>
+			<field name="数据">285096</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4567</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">美国</field>
+			<field name="数据">287831</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4709</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">美国</field>
+			<field name="数据">268782</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4754</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">美国</field>
+			<field name="数据">247750</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4550</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">美国</field>
+			<field name="数据">241977</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">5067</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">美国</field>
+			<field name="数据">224912</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">5061</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">美国</field>
+			<field name="数据">231588</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4998</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">美国</field>
+			<field name="数据">241347</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">5522</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">美国</field>
+			<field name="数据">221784</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">5183</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">美国</field>
+			<field name="数据">207867</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">5231</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">美国</field>
+			<field name="数据">189536</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">3929</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">美国</field>
+			<field name="数据">188941</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">3959</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">美国</field>
+			<field name="数据">184245</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">3963</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">美国</field>
+			<field name="数据">177513</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4187</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">美国</field>
+			<field name="数据">164795</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">4061</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">美国</field>
+			<field name="数据">149251</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">加拿大</field>
+			<field name="数据">3809</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">美国</field>
+			<field name="数据">134733</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">格陵兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">百慕大</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">关岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">北马里亚纳群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">美属维尔京群岛</field>
+			<field name="数据"/>
+		</record>
+	</data>
+</root>

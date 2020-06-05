@@ -1,0 +1,5137 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<database>数据库：国际数据主要国家(地区)年度数据</database>
+	<data>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">1054</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1552</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">英国</field>
+			<field name="数据">13876</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">德国</field>
+			<field name="数据">48480</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14206</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">202</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8848</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">143</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2290</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">606</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">724</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2745</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">21</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2078</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">230</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1260</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">616</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">35</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1227</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">4261</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1005</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2032</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1462</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">29</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">95</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">95</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">96</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">125</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">144</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">455</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">91</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">26795</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2233</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">175</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">792</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">220</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">60</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">192</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">10</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">949</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1462</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">英国</field>
+			<field name="数据">14867</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47384</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14306</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">250</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">128</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2207</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">550</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">925</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2799</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2205</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">280</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1289</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">569</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">40</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1153</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">4676</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">975</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2038</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1477</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">30</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">136</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">101</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">99</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">113</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">184</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">543</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">64</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">29269</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2271</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">169</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">880</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">228</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">波黑</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">178</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">889</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1377</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">英国</field>
+			<field name="数据">15196</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">德国</field>
+			<field name="数据">48154</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14500</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">263</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8601</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">128</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2294</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">651</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">722</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2953</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">10</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2092</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">218</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1419</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">546</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">51</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1106</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">3941</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">952</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">1984</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1480</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">44</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">103</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">123</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">110</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">121</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">168</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">652</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">67</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">24072</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2457</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">170</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">910</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">211</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">41</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">202</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">715</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1341</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">英国</field>
+			<field name="数据">14972</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47353</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14690</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">333</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8307</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">113</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2315</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">698</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">647</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3026</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2162</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">282</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1596</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">642</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">33</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1101</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">4237</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">993</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据">11</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2332</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1525</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">25</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">225</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">117</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">114</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">125</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">156</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1489</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">67</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">28765</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2856</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">230</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">984</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">184</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">42</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">201</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">755</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1406</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">英国</field>
+			<field name="数据">15370</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">德国</field>
+			<field name="数据">46620</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14540</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">492</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8439</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">109</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2375</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">628</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">621</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3266</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2258</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">245</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1698</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">692</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">37</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">11</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1009</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">4410</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1022</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2288</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1480</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">20</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">193</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">109</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">139</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">137</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">144</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1681</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">93</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">28701</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2491</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">217</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">867</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">168</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">50</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">192</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">37</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">636</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1574</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">英国</field>
+			<field name="数据">15343</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">德国</field>
+			<field name="数据">46986</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14655</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">494</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8794</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">85</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2585</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">721</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">571</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3430</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2154</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">262</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1650</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">662</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">50</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1122</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">3879</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1424</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2004</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1597</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">62</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">173</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">93</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">138</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">121</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">193</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1725</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">97</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">26495</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2649</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">470</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">230</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">783</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">224</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">37</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">43</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">180</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">20</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">620</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1626</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">英国</field>
+			<field name="数据">15490</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47047</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14748</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">733</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8877</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">79</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2527</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">728</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">499</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3566</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2424</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">243</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1731</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">649</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">57</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">12</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1117</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">3203</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1382</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2196</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1622</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">84</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">178</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">108</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">179</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">136</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">254</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1759</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">139</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">28722</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2556</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">442</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">257</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">868</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">234</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">27</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">56</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">290</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">669</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1518</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">英国</field>
+			<field name="数据">15985</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47859</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14100</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">908</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8814</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">60</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2575</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">698</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">571</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3596</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2263</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">242</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1806</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">757</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">64</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1246</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2899</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1054</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2186</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1684</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">76</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">240</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">91</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">250</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">116</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">264</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1753</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">134</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">25598</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2434</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">373</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">250</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">789</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">176</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">39</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">波黑</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">319</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">575</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1634</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">英国</field>
+			<field name="数据">16523</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">德国</field>
+			<field name="数据">49240</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14658</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">931</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">8588</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">48</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2421</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">628</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">381</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3632</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2298</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">249</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1799</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">683</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">50</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1150</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2488</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">995</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2549</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1594</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">62</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">206</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">87</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">221</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">226</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">226</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1510</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">273</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">27712</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">2825</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">301</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">330</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">712</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">167</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">34</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">59</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">386</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">黑山</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">454</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1660</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">英国</field>
+			<field name="数据">17375</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47853</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14722</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">847</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">9255</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">15</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2079</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">575</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">250</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3267</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2385</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">211</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1804</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">689</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">61</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">10</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">11</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1225</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2392</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">827</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2527</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1692</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">44</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">139</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">62</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">83</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">135</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">287</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1405</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">333</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">27505</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">3440</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">331</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">344</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">716</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">239</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">105</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">波黑</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">395</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">490</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1503</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">英国</field>
+			<field name="数据">17484</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">德国</field>
+			<field name="数据">48012</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14529</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">838</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">26</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2168</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">532</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">184</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3111</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2271</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">243</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1816</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">718</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">45</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1119</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2157</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">814</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2446</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1740</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">36</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">114</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">65</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">236</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">192</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">246</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1188</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">303</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">27884</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">3474</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">287</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">317</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">641</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">193</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">55</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">55</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">432</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">517</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1658</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">英国</field>
+			<field name="数据">17833</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">德国</field>
+			<field name="数据">48367</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14327</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">789</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">24</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2217</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">462</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">158</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">3040</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2270</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">261</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1830</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">705</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">47</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1143</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2028</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">916</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2522</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1643</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">112</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">68</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">225</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">206</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">281</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1166</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">377</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">23644</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">3538</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">344</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">363</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">586</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">155</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">53</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">66</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">372</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">514</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1877</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">英国</field>
+			<field name="数据">19178</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">德国</field>
+			<field name="数据">48448</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">法国</field>
+			<field name="数据">14230</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">787</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2187</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">379</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">123</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2871</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2248</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">263</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2011</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">748</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">66</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1142</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2381</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">937</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">2768</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1742</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">27</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">108</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">70</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">249</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">270</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1065</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">297</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">22985</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">4090</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">342</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">385</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">623</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">215</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">44</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">50</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据">473</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">519</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1772</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">英国</field>
+			<field name="数据">20426</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47818</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13511</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">862</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">16</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2288</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">393</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">125</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2813</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2120</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">278</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">1972</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">756</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">57</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1079</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2268</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">881</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">3025</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1831</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">18</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">91</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">64</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">194</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">151</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">246</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">1082</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">293</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">24969</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">1635</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">381</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">310</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">387</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">625</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">210</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">48</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">32</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">601</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1815</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">英国</field>
+			<field name="数据">20624</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">德国</field>
+			<field name="数据">47598</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13519</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">914</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">41</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2122</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">376</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">130</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2763</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">1932</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">289</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2162</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">842</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">71</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">22</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1178</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2313</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1478</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">3358</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1827</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">19</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">150</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">85</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">194</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">200</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">234</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">895</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">239</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">23712</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">1601</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">359</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">300</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">328</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">526</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">259</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">42</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">波黑</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">571</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1757</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">英国</field>
+			<field name="数据">21423</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">德国</field>
+			<field name="数据">49989</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13499</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">1019</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">51</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2110</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">385</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">107</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2528</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">1815</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">283</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2390</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">919</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">49</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">26</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1189</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2202</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1128</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">3926</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1859</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">18</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">117</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">68</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">254</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">140</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据">203</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">930</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">437</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">24777</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">7208</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">362</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">301</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">362</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">568</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">246</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">66</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">52</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">577</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1730</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">英国</field>
+			<field name="数据">22050</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">德国</field>
+			<field name="数据">51736</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13870</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">925</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">7877</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">85</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2465</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">306</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">81</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2710</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">1961</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">231</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2579</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">810</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">51</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1311</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2404</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1003</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">4224</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">2083</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">98</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">66</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">232</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">119</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">994</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">240</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">23377</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">5620</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">324</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">307</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">337</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">555</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">236</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">71</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">31</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">591</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1656</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">英国</field>
+			<field name="数据">21333</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">德国</field>
+			<field name="数据">50029</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13592</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">996</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">意大利</field>
+			<field name="数据">6281</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">24</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2545</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">290</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">81</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2439</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">2028</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">282</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2511</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">729</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">35</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">11</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">15</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1335</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2285</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1061</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">4142</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">1916</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">91</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">86</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">265</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">109</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">993</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">256</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">19900</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">5401</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">274</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">261</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">246</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">596</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">213</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">64</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">波黑</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">比利时</field>
+			<field name="数据">690</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">丹麦</field>
+			<field name="数据">1543</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">英国</field>
+			<field name="数据">19530</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">德国</field>
+			<field name="数据">46523</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">法国</field>
+			<field name="数据">13251</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">爱尔兰</field>
+			<field name="数据">985</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">意大利</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">卢森堡</field>
+			<field name="数据">44</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">荷兰</field>
+			<field name="数据">2451</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">希腊</field>
+			<field name="数据">276</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">葡萄牙</field>
+			<field name="数据">96</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">西班牙</field>
+			<field name="数据">2271</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">阿尔巴尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">奥地利</field>
+			<field name="数据">1957</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">保加利亚</field>
+			<field name="数据">274</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">芬兰</field>
+			<field name="数据">2471</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">匈牙利</field>
+			<field name="数据">690</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">冰岛</field>
+			<field name="数据">41</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">马耳他</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">摩纳哥</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">挪威</field>
+			<field name="数据">1213</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">波兰</field>
+			<field name="数据">2407</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">罗马尼亚</field>
+			<field name="数据">1299</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">圣马力诺</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">瑞典</field>
+			<field name="数据">3972</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">瑞士</field>
+			<field name="数据">2025</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">爱沙尼亚</field>
+			<field name="数据">20</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">拉脱维亚</field>
+			<field name="数据">195</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">立陶宛</field>
+			<field name="数据">134</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">格鲁吉亚</field>
+			<field name="数据">277</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">亚美尼亚</field>
+			<field name="数据">75</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">阿塞拜疆</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">白俄罗斯</field>
+			<field name="数据">910</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">摩尔多瓦</field>
+			<field name="数据">257</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">俄罗斯联邦</field>
+			<field name="数据">16454</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">乌克兰</field>
+			<field name="数据">5319</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">南斯拉夫(塞尔维亚和黑山)</field>
+			<field name="数据">415</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">斯洛文尼亚</field>
+			<field name="数据">288</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">克罗地亚</field>
+			<field name="数据">267</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">捷克</field>
+			<field name="数据">624</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">斯洛伐克</field>
+			<field name="数据">213</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">前南马其顿</field>
+			<field name="数据">84</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">波黑</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">塞尔维亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">黑山</field>
+			<field name="数据"/>
+		</record>
+	</data>
+</root>

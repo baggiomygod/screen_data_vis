@@ -1,0 +1,3085 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<database>数据库：国际数据主要国家(地区)年度数据</database>
+	<data>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">106</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">918</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">加纳</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">144</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">237</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">15</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">南非</field>
+			<field name="数据">2783</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">284</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">235</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">16</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">89</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">718</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">137</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">224</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">24</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">南非</field>
+			<field name="数据">889</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">267</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">180</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">94</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">752</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">132</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">355</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">南非</field>
+			<field name="数据">802</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">142</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">118</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">641</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">127</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">316</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据">50</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">南非</field>
+			<field name="数据">638</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">269</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">112</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">10</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">119</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">683</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据">26</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">123</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">197</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据">42</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据">40</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">南非</field>
+			<field name="数据">608</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">150</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">94</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">618</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">169</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">8</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据">64</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">南非</field>
+			<field name="数据">656</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">249</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">137</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">76</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">605</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">77</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">152</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">15</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">南非</field>
+			<field name="数据">821</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">252</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">113</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">490</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">48</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">135</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">南非</field>
+			<field name="数据">822</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">332</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">105</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">481</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">63</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">177</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">南非</field>
+			<field name="数据">860</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">340</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">84</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">516</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">12</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">41</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">150</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">18</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">南非</field>
+			<field name="数据">915</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2007年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">58</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">埃及</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">41</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">178</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">南非</field>
+			<field name="数据">866</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">11</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2006年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">59</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">428</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">34</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">140</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">南非</field>
+			<field name="数据">1003</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">56</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2005年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">58</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">382</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">31</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">16</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">104</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">南非</field>
+			<field name="数据">956</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">16</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">46</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">12</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2004年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">30</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">493</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">22</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">南非</field>
+			<field name="数据">922</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">35</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2003年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">43</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">627</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">23</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">南非</field>
+			<field name="数据">983</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">45</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2002年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">51</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">464</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">南非</field>
+			<field name="数据">966</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">9</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">22</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2001年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">32</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">534</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">104</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">南非</field>
+			<field name="数据">895</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">13</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">6</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">47</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">2000年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">36</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">536</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">25</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">10</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">1</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">南非</field>
+			<field name="数据">138</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">40</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">67</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">4</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据">5</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1999年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">阿尔及利亚</field>
+			<field name="数据">42</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">博茨瓦那</field>
+			<field name="数据">7</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">吉布提</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">埃及</field>
+			<field name="数据">494</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">埃塞俄比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">冈比亚</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">加纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">几内亚比绍</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">科特迪瓦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">肯尼亚</field>
+			<field name="数据">27</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">马达加斯加</field>
+			<field name="数据">14</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">马拉维</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">毛里求斯</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">摩洛哥</field>
+			<field name="数据">97</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">莫桑比克</field>
+			<field name="数据">0</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">尼日利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">卢旺达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">南非</field>
+			<field name="数据">200</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">西撒哈拉</field>
+			<field name="数据">44</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">苏丹</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">坦桑尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">突尼斯</field>
+			<field name="数据">38</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">乌干达</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">布基纳法索</field>
+			<field name="数据">2</field>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">赞比亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">津巴布韦</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">居民专利申请数量(个)</field>
+			<field name="时间">1998年</field>
+			<field name="地区">斯威士兰</field>
+			<field name="数据"/>
+		</record>
+	</data>
+</root>

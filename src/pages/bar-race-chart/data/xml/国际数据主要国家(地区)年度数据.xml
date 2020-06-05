@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<database>数据库：国际数据主要国家(地区)年度数据</database>
+	<data>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2017年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">25774</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">5311</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2016年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">26314</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">5317</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据">46</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据">3</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2015年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">23968</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">6092</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据">99</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2014年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">26656</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">5167</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据">79</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2013年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">23731</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">5674</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2012年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">23143</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">4708</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2011年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">22478</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">5051</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2010年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">21187</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">4803</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2009年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">澳大利亚</field>
+			<field name="数据">23525</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">库克群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">斐济</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">盖比群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">马克萨斯群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">瑙鲁</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">新喀里多尼亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">瓦努阿图</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">新西兰</field>
+			<field name="数据">4468</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">诺福克岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">巴布亚新几内亚</field>
+			<field name="数据">45</field>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">社会群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">所罗门群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">汤加</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">土阿莫土群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">土布艾群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">萨摩亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">基里巴斯</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">图瓦卢</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">密克罗尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">马绍尔群岛</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">帕劳</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">法属波利尼西亚</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">非居民专利申请数量(个)</field>
+			<field name="时间">2008年</field>
+			<field name="地区">瓦利斯和浮图纳</field>
+			<field name="数据"/>
+		</record>
+	</data>
+</root>
