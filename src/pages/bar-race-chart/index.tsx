@@ -44,7 +44,7 @@ export default class BarRace extends React.PureComponent {
 
     const categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis());
     categoryAxis.renderer.grid.template.location = 0;
-    categoryAxis.dataFields.category = "network";
+    categoryAxis.dataFields.category = "label";
     categoryAxis.renderer.minGridDistance = 1;
     categoryAxis.renderer.inversed = true;
     categoryAxis.renderer.grid.template.disabled = true;
@@ -56,7 +56,7 @@ export default class BarRace extends React.PureComponent {
     valueAxis.extraMax = 0.1;
 
     const series = chart.series.push(new am4charts.ColumnSeries());
-    series.dataFields.categoryY = "network";
+    series.dataFields.categoryY = "label";
     series.dataFields.valueX = "MAU";
     series.tooltipText = "{valueX.value}"
     series.columns.template.strokeOpacity = 0;
