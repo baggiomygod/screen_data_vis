@@ -32,12 +32,12 @@ class CanvasBg extends React.Component {
         window.onresize = this.resize
 
         // 鼠标活动时获取鼠标的坐标
-        window.onmousemove = (e) => {
+        window.onmousemove = (e:any) => {
             e = e || window.event
             this.state.warea.x = e.clientX
             this.state.warea.y = e.clientY
         }
-        window.onmouseout = (e) => {
+        window.onmouseout = (e:any) => {
             this.state.warea.x = 0;
             this.state.warea.y = 0;
         };

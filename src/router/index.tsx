@@ -14,7 +14,9 @@ import Login from 'src/pages/login'
 import MainScreen from 'src/pages/main'
 import ZbdScreen from 'src/pages/zbd'
 import Rework from 'src/pages/rework'
-import GeoMap from 'src/pages/geoMap'
+import geoMap from 'src/pages/geoMap'
+import HZ2d from 'src/pages/geoMap/Hz2d'
+import HZ3d from 'src/pages/geoMap/Hz2d'
 import LinePage from 'src/pages/linePage'
 import BarRaceChart from 'src/pages/bar-race-chart'
 
@@ -37,7 +39,9 @@ class ScreenRouter extends React.Component{
             <Router>
                 <App>
                     <Switch>
-                        <Route path="/geo" component={GeoMap} />
+                        <Route path="/geomap" component={geoMap} />
+                        <Route path="/hz2d" component={HZ2d} />
+                        <Route path="/hz3d" component={HZ3d} />
                         <Route path="/line" component={LinePage} />
                         <Route path="/login" component={Login} />
                         <Route path="/barRace" component={BarRaceChart} />
