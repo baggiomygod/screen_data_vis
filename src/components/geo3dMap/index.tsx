@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 import * as echarts from 'echarts/lib/echarts'
-import {Cascader, Button} from 'antd'
+import {Cascader} from 'antd'
 import MapLayout from 'src/components/mapLayout'
 
 // echarts
@@ -10,8 +10,7 @@ import 'echarts/lib/component/tooltip';
 import 'echarts/lib/component/title';
 import 'echarts/lib/component/geo';
 
-// import geoOptions from './options/geoMapOpt' // 2d
-import geoOptions from './options/map3d' // 3d
+import geoOptions from './options/3d' // 3d
 // style
 import './index.scss'
 
@@ -31,7 +30,7 @@ const lishui = require('./geoMapData/geometryCouties/331100.json') // 丽水
 const cascaderOptions = require('./mock/provincesCitiesOpt.json')
 import requestSeriesData from './mock/requestSeriesData'
 
-class CenterMap extends React.Component{
+class Geo3dMap extends React.Component{
     public state = {
         geoJson: {
             zhejiang,         
@@ -58,8 +57,8 @@ class CenterMap extends React.Component{
         // 基于准备好的dom，初始化echarts实例
         const geoContainerEle:any = document.getElementById('geo-container')
         this.mapChart = echarts.init(geoContainerEle);
-        echarts.registerMap('zhejiang', this.state.geoJson.zhejiang)
-        this.mapChart.setOption(geoOptions('zhejiang', requestSeriesData()));
+        echarts.registerMap('hangzhou', this.state.geoJson.hangzhou)
+        this.mapChart.setOption(geoOptions('hangzhou', requestSeriesData()));
     }
     public changeMap (val:any) {
         echarts.registerMap(val[1], this.state.geoJson[val[1]])
@@ -75,14 +74,11 @@ class CenterMap extends React.Component{
                     <div id="geo-container" style={{ width: '100%', height: '70vh'}} />
                     <div className="tabs-map" style={{position: 'absolute'}}>
                         <Cascader options={cascaderOptions} size="small" onChange={this.changeMap} placeholder="Please select" />
-                        <Button type="primary" size="small">3D地图</Button>
-                        <Button type="default" size="small">热力图</Button>
                     </div>
                 </div>
-                
             </MapLayout>
         )
     }
 }
 
-export default CenterMap
+export default Geo3dMap

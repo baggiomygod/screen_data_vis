@@ -48,19 +48,19 @@ function geoOptions(mapName: string,
             boxWidth: 100,
             boxDepth: 90,
             normal: {
-                areaColor: 'rgb(74, 169, 255)', // '#ffff33',
-                borderColor: 'rgba(0,0,0,1)',
-                borderWidth: 2
+                areaColor: 'rgba(21, 82, 135, 0.6)', // '#ffff33',
+                borderColor: 'rgba(147, 235, 248, 1)',
+                borderWidth: 1
             },
             itemStyle: {
-                color: '#f9be00',
-                areaColor: 'rgb(24, 144, 255)', //  '#ffff33',
+                color: 'rgba(21, 82, 135, 0.8)', // 地图颜色
+                areaColor: '#f9be00', // '#ffff33',
                 opacity: 1,
                 borderWidth: 1,
-                borderColor: '#fff'
+                borderColor: '#eee' // 边框颜色
             },
             shading: {
-                color: '#333'
+                color: '#000'
             },
             label: {
                 show: true,
@@ -135,24 +135,34 @@ function geoOptions(mapName: string,
             // 画线
             {
                 type: 'lines3D',
-
                 coordinateSystem: 'geo3D',
-
                 effect: {
                     show: true,
-                    trailWidth: 1,
-                    trailOpacity: 0.5,
-                    trailLength: 0.2,
-                    constantSpeed: 5
+                    period: 2,
+                    trailWidth: 3,
+                    trailLength: 0.5,
+                    trailOpacity: 1,
+                    trailColor: '#0087f4'
                 },
-
                 blendMode: 'lighter',
-
                 lineStyle: {
-                    width: 3,
-                    opacity: 1,
-                    color: [123, 23, 63, 1]
+                    // width: 2
+                    width: 1,
+                    color: '#0087f4',
+                    opacity: 0
                 },
+                // effect: {
+                //     show: true,
+                //     trailWidth: 5,
+                //     trailOpacity: 1,
+                //     trailLength: 1,
+                //     constantSpeed: 8
+                // },
+                // lineStyle: {
+                //     width: 5,
+                //     opacity: 1,
+                //     color: '#f9be00', // [123, 23, 63, 1]
+                // },
 
                 data: seriesData.alirl
             }

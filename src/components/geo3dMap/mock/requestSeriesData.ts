@@ -188,7 +188,11 @@ const geoCoordMap = {
     "菏泽": [115.480656, 35.23375],
     "合肥": [117.27, 31.86],
     "武汉": [114.31, 30.52],
-    "大庆": [125.03, 46.58]
+    "大庆": [125.03, 46.58],
+    "桐庐": [119.67, 29.80],
+    "建德": [119.28, 29.48],
+    "淳安": [119.03, 29.60],
+    "萧山": [120.27, 30.17],
 };
 const convertData = (data:any[]) => {
     const res = [];
@@ -209,132 +213,84 @@ const scatter3dData = convertData([
         value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "金华",
+        name: "富阳",
         value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "宁波",
+        name: "建德",
         value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "绍兴",
+        name: "临安",
         value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "衢州",
+        name: "桐庐",
         value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "舟山",
+        name: "淳安",
+        value: ((Math.random() * 100) + 50).toFixed(2)
+    },
+    {
+        name: "萧山",
         value: ((Math.random() * 100) + 50).toFixed(2)
     }
 ])
 const bar3dData = convertData([
     {
         name: "杭州",
-        value: (Math.random() * 300).toFixed(2)
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "宁波",
-        value: (Math.random() * 300).toFixed(2)
+        name: "临安",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "温州",
-        value: (Math.random() * 300).toFixed(2)
+        name: "富阳",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "台州",
-        value: (Math.random() * 300).toFixed(2)
+        name: "建德",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "嘉兴",
-        value: (Math.random() * 300).toFixed(2)
+        name: "桐庐",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "丽水",
-        value: (Math.random() * 300).toFixed(2)
+        name: "淳安",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     },
     {
-        name: "衢州",
-        value: (Math.random() * 300).toFixed(2)
-    },
-    {
-        name: "绍兴",
-        value: (Math.random() * 300).toFixed(2)
-    },
-    {
-        name: "舟山",
-        value: (Math.random() * 300).toFixed(2)
-    },
-    {
-        name: "金华",
-        value: (Math.random() * 300).toFixed(2)
-    },
-    {
-        name: "湖州",
-        value: (Math.random() * 300).toFixed(2)
+        name: "萧山",
+        value: ((Math.random() * 100) + 50).toFixed(2)
     }
 ])
 const alirl = [
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                122.207216,
-                29.985295
-            ]
+            [120.19, 30.26],
+            [119.95, 30.07]
         ],
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                119.92,
-                28.45
-            ]
+            [120.19, 30.26],
+            [119.35, 29.48]
         ],
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                119.64,
-                29.12
-            ]
+            [120.19,30.26],
+            [119.65,30.40]
         ],
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                119.95,
-                30.07
-            ]
+            [120.19,30.26],
+            [119.03,29.66]
         ],
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                121.56,
-                29.86
-            ]
+            [120.19,30.26],
+            [119.67,29.80]
         ],
         [
-            [
-                120.19,
-                30.26
-            ],
-            [
-                118.88,
-                28.97
-            ]
+            [120.19,30.26],
+            [120.27,30.17]
         ]
     ]
 function requestData (city:string = 'zhejiang') {
