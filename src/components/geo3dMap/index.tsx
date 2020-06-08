@@ -10,7 +10,9 @@ import 'echarts/lib/component/tooltip';
 import 'echarts/lib/component/title';
 import 'echarts/lib/component/geo';
 
-import geoOptions from './options/3d' // 3d
+import geoOptions from './3d' // 3d
+import requestSeriesData from './mock/requestSeriesData'
+
 // style
 import './index.scss'
 
@@ -26,9 +28,7 @@ const quzhou = require('./geoMapData/geometryCouties/330800.json') // 衢州
 const zhoushan = require('./geoMapData/geometryCouties/330900.json') // 舟山
 const taizhou = require('./geoMapData/geometryCouties/331000.json') // 台州
 const lishui = require('./geoMapData/geometryCouties/331100.json') // 丽水
-
 const cascaderOptions = require('./mock/provincesCitiesOpt.json')
-import requestSeriesData from './mock/requestSeriesData'
 
 class Geo3dMap extends React.Component{
     public state = {

@@ -151,19 +151,6 @@ function geoOptions(mapName: string,
                     color: '#0087f4',
                     opacity: 0
                 },
-                // effect: {
-                //     show: true,
-                //     trailWidth: 5,
-                //     trailOpacity: 1,
-                //     trailLength: 1,
-                //     constantSpeed: 8
-                // },
-                // lineStyle: {
-                //     width: 5,
-                //     opacity: 1,
-                //     color: '#f9be00', // [123, 23, 63, 1]
-                // },
-
                 data: seriesData.alirl
             }
         ]
