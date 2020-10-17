@@ -40,7 +40,7 @@ class ScreenRouter extends React.Component{
                         <Route path="/geo" component={GeoMap} />
                         <Route path="/line" component={LinePage} />
                         <Route path="/login" component={Login} />
-                        <Route path="/barRace" component={BarRaceChart} />
+                        <Route path="/bar_race" component={BarRaceChart} />
                         <Route path="/" render={screenRouteRender} />
                     </Switch>
                 </App>

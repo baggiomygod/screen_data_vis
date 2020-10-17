@@ -2,1250 +2,1250 @@
 export default {
     "2003": [
       {
-        "network": "意大利",
+        "label": "facebook",
         "MAU": 0
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
   
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 4470000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 0
       }
     ],
     "2004": [
       {
-        "network": "意大利",
+        "label": "facebook",
         "MAU": 0
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 3675135
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 5970054
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 980036
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 4900180
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 0
       }
     ],
     "2005": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 0
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 7399354
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 7459742
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 9731610
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 19490059
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 9865805
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1946322
       }
     ],
     "2006": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 0
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 14949270
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 8989854
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 19932360
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 54763260
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 14966180
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 248309
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 19878248
       }
     ],
     "2007": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 0
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 29299875
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 24253200
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 29533250
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 69299875
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 26916562
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 488331
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 143932250
       }
     ],
     "2008": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 100000000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 30000000
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 51008911
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 55045618
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 72408233
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 44357628
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 1944940
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 294493950
       }
     ],
     "2009": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 276000000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 41834525
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 28804331
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 57893524
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 70133095
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 47366905
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 3893524
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 0
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 0
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 413611440
       }
     ],
     "2010": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 517750000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 54708063
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 166029650
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 59953290
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 68046710
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 49941613
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 43250000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 0
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 19532900
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 480551990
       }
     ],
     "2011": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 766000000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 66954600
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 170000000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 0
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 46610848
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 46003536
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 47609080
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 0
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 92750000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 47818400
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 48691040
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 642669824
       }
     ],
     "2012": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 979750000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 79664888
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 170000000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 107319100
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 0
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 45067022
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 146890156
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 160250000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 118123370
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 79195730
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 0
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 844638200
       }
     ],
     "2013": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 1170500000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 80000000
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 170000000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 205654700
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 117500000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 0
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 293482050
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 223675000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 196523760
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 118261880
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 300000000
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1065223075
       }
     ],
     "2014": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 1334000000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 170000000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 254859015
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 250000000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 135786956
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 388721163
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 223675000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 444232415
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 154890345
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 498750000
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1249451725
       }
     ],
     "2015": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 1516750000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 170000000
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 298950015
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 400000000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 0
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 163346676
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 475923363
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 304500000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 660843407
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 208716685
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 800000000
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1328133360
       }
     ],
     "2016": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 1753500000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 398648000
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 550000000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 143250000
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 238972480
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 238648000
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 0
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 565796720
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 314500000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 847512320
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 281026560
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 1000000000
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1399053600
       }
     ],
     "2017": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 2035750000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 495657000
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 750000000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 195000000
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 297394200
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 239142500
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 593783960
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 328250000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 921742750
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 357569030
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 1333333333
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1495657000
       }
     ],
     "2018": [
       {
-        "network": "Facebook",
+        "label": "Facebook",
         "MAU": 2255250000
       },
       {
-        "network": "Flickr",
+        "label": "Flickr",
         "MAU": 0
       },
       {
-        "network": "Friendster",
+        "label": "Friendster",
         "MAU": 0
       },
       {
-        "network": "Google Buzz",
+        "label": "Google Buzz",
         "MAU": 0
       },
       {
-        "network": "Google+",
+        "label": "Google+",
         "MAU": 430000000
       },
       {
-        "network": "Hi5",
+        "label": "Hi5",
         "MAU": 0
       },
       {
-        "network": "Instagram",
+        "label": "Instagram",
         "MAU": 1000000000
       },
       {
-        "network": "MySpace",
+        "label": "MySpace",
         "MAU": 0
       },
       {
-        "network": "Orkut",
+        "label": "Orkut",
         "MAU": 0
       },
       {
-        "network": "Pinterest",
+        "label": "Pinterest",
         "MAU": 246500000
       },
       {
-        "network": "Reddit",
+        "label": "Reddit",
         "MAU": 355000000
       },
       {
-        "network": "Snapchat",
+        "label": "Snapchat",
         "MAU": 0
       },
       {
-        "network": "TikTok",
+        "label": "TikTok",
         "MAU": 500000000
       },
       {
-        "network": "Tumblr",
+        "label": "Tumblr",
         "MAU": 624000000
       },
       {
-        "network": "Twitter",
+        "label": "Twitter",
         "MAU": 329500000
       },
       {
-        "network": "WeChat",
+        "label": "WeChat",
         "MAU": 1000000000
       },
       {
-        "network": "Weibo",
+        "label": "Weibo",
         "MAU": 431000000
       },
       {
-        "network": "Whatsapp",
+        "label": "Whatsapp",
         "MAU": 1433333333
       },
       {
-        "network": "YouTube",
+        "label": "YouTube",
         "MAU": 1900000000
       }
     ]

@@ -2,8 +2,9 @@ function createLineAreaOption(lineData: any[], orient: string = '') {
     const options = {
             tooltip : {
                 show: true,
-                trigger: 'item',
-                position: 'top'
+                // trigger: 'item',
+                position: 'top',
+                formatter: '{c}'
             },
             legend: {
                 show:true,
